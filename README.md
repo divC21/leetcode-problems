@@ -5,4 +5,5 @@
   3. Problem No 121 - Best Time to Buy and Sell Stock (bestTimeToBuySellStock-121.js).
   4. Problem No 9 - Palindrome Number (palindromeInt-9.js)
   5. Problem No 136 - Single Number (singleNumber-136.js)
+  6. Problem No 2942 - Find Words Containing Character(findWordsContaining-2942.js)
      
