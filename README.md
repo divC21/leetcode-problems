@@ -7,4 +7,5 @@
   5. Problem No 136. Single Number (singleNumber-136.js)
   6. Problem No 2942. Find Words Containing Character (findWordsContaining-2942.js)
   7. Problem No 125. Valid Palindrome (validPalindrome-125.js)
-  8. Problem N0 3541. Find Most Frequent Vowel and Consonant (maxFreqSum-3541.js)
+  8. Problem No 3541. Find Most Frequent Vowel and Consonant (maxFreqSum-3541.js)
+  9. Problem No 1221. Split a String in Balanced Strings (balancedStringSplit-1221.js)
