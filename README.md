@@ -9,3 +9,4 @@
   7. Problem No 125. Valid Palindrome (validPalindrome-125.js)
   8. Problem No 3541. Find Most Frequent Vowel and Consonant (maxFreqSum-3541.js)
   9. Problem No 1221. Split a String in Balanced Strings (balancedStringSplit-1221.js)
+  10. Problem No 58. Length of Last Word (lengthOfLastWord-58.js)
