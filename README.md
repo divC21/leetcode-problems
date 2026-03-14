@@ -10,3 +10,4 @@
   8. Problem No 3541. Find Most Frequent Vowel and Consonant (maxFreqSum-3541.js)
   9. Problem No 1221. Split a String in Balanced Strings (balancedStringSplit-1221.js)
   10. Problem No 58. Length of Last Word (lengthOfLastWord-58.js)
+  11. Problem No 88. Merge Sorted Array (merge-88.js)
