@@ -12,3 +12,4 @@
   10. Problem No 58. Length of Last Word (lengthOfLastWord-58.js)
   11. Problem No 88. Merge Sorted Array (merge-88.js)
   12. Problem No 231. Power of Two (isPowerOfTwo-231.js)
+  13. Problem No 3. Longest Substring Without Repeating Characters(lengthOfLongestSubstring-3.js)
