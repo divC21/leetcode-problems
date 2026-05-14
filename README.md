@@ -16,3 +16,4 @@
   14. Problem No 1903. Largest Odd Number in String (largestOddNumber-1903.js)
   15. Problem No 20. Valid Parentheses (validParentheses-20.js)
   16. Problem No 2. Add Two Numbers (addTwoNumbers-2.js) 
+  17. Problem No 242. Valid Anagram (isAnagram-242.js)
